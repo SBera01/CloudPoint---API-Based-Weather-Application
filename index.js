@@ -32,7 +32,7 @@ const getProperTime = (dt) => {
     const formattedDate = formatter.format(curDate);
 
     return formattedDate;
-} 
+}
 
 let city = "kolkata";
 
